@@ -21,7 +21,10 @@ Output: "apbqcd"
 Explanation: Notice that as word1 is longer, "cd" is appended to the end.
 word1:  a   b   c   d
 word2:    p   q 
-merged: a p b q c   d*/
+merged: a p b q c   d
+
+Sloved
+*/
 
 const min = 1;
 const max = 100;
