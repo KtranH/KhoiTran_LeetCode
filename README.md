@@ -4,6 +4,7 @@ Repository này chứa lời giải cho các bài tập trên [LeetCode](https:/
 
 ## 📚 Cấu Trúc Repository
 
+```
 ├── csharp/
 │   ├── Merge Strings Alternately
 │   ├── Greatest Common Divisor of Strings
@@ -20,6 +21,7 @@ Repository này chứa lời giải cho các bài tập trên [LeetCode](https:/
     ├── Merge Strings Alternately
     ├── Greatest Common Divisor of Strings
     └── ...
+```
 
 ## 🚀 Ngôn Ngữ Được Sử Dụng
 
