@@ -37,6 +37,9 @@ Repository này chứa lời giải cho các bài tập trên [LeetCode](https:/
 ### PHP (Laravel)
 - PHP 8.x với Laravel framework
 
+### JavaScript
+- Sử dụng JavaScript để giải bài toán trên terminal
+
 ## 🔍 Tìm Kiếm Bài Giải
 
 Bạn có thể tìm kiếm bài giải theo:
