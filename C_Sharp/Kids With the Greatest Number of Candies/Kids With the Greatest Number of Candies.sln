@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids With the Greatest Number of Candies", "Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies.csproj", "{FB87753F-5221-41B6-AD12-F2EE35D4FCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB87753F-5221-41B6-AD12-F2EE35D4FCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB87753F-5221-41B6-AD12-F2EE35D4FCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB87753F-5221-41B6-AD12-F2EE35D4FCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB87753F-5221-41B6-AD12-F2EE35D4FCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F5BA26-29AF-49AE-8CA0-7F3D168FDD00}
+	EndGlobalSection
+EndGlobal

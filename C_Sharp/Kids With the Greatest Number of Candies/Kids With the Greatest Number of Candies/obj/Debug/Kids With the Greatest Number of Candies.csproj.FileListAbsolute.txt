@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\bin\Debug\Kids With the Greatest Number of Candies.exe.config
+D:\LeetCode\C_Sharp\Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\bin\Debug\Kids With the Greatest Number of Candies.exe
+D:\LeetCode\C_Sharp\Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\bin\Debug\Kids With the Greatest Number of Candies.pdb
+D:\LeetCode\C_Sharp\Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\Kids With the Greatest Number of Candies.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\Kids With the Greatest Number of Candies.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\Kids With the Greatest Number of Candies.exe
+D:\LeetCode\C_Sharp\Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies\obj\Debug\Kids With the Greatest Number of Candies.pdb
