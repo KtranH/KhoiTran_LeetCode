@@ -9,8 +9,8 @@ Input: flowerbed = [1,0,0,0,1], n = 2
 Output: false
 """
 
-flowerbed = [0,0,1,0,1]
-n = 1
+flowerbed = [1,0,1,0,1,0,1]
+n = 0
 
 def slove_can_place_flowers(flowerbed, n):
     count = 0

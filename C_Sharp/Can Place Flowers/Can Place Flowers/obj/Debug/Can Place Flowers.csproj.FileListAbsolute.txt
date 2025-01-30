@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Can Place Flowers\Can Place Flowers\bin\Debug\Can Place Flowers.exe.config
+D:\LeetCode\C_Sharp\Can Place Flowers\Can Place Flowers\bin\Debug\Can Place Flowers.exe
+D:\LeetCode\C_Sharp\Can Place Flowers\Can Place Flowers\bin\Debug\Can Place Flowers.pdb
+D:\LeetCode\C_Sharp\Can Place Flowers\Can Place Flowers\obj\Debug\Can Place Flowers.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Can Place Flowers\Can Place Flowers\obj\Debug\Can Place Flowers.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Can Place Flowers\Can Place Flowers\obj\Debug\Can Place Flowers.exe
+D:\LeetCode\C_Sharp\Can Place Flowers\Can Place Flowers\obj\Debug\Can Place Flowers.pdb
