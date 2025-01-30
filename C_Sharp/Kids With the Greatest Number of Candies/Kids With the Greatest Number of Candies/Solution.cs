@@ -16,7 +16,7 @@ namespace Kids_With_the_Greatest_Number_of_Candies
             {
                 if (candies[i] + extraCandies >= max)
                 {
-                    result[i] = true;
+                    result.Append(true);
                 }
                 else
                 {
