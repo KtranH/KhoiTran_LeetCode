@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Reverse Vowels of a String\Reverse Vowels of a String\bin\Debug\Reverse Vowels of a String.exe.config
+D:\LeetCode\C_Sharp\Reverse Vowels of a String\Reverse Vowels of a String\bin\Debug\Reverse Vowels of a String.exe
+D:\LeetCode\C_Sharp\Reverse Vowels of a String\Reverse Vowels of a String\bin\Debug\Reverse Vowels of a String.pdb
+D:\LeetCode\C_Sharp\Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\Reverse Vowels of a String.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\Reverse Vowels of a String.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\Reverse Vowels of a String.exe
+D:\LeetCode\C_Sharp\Reverse Vowels of a String\Reverse Vowels of a String\obj\Debug\Reverse Vowels of a String.pdb
