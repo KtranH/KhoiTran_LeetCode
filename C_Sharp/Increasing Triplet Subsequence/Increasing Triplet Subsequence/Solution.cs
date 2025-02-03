@@ -14,11 +14,11 @@ namespace Increasing_Triplet_Subsequence
             int max_muns_second = nums.Max() + 1;
             foreach (int num in nums)
             {
-                if (num < max_muns_first)
+                if (num <= max_muns_first)
                 {
                     max_muns_first = num;
                 }
-                else if (num < max_muns_second)
+                else if (num <= max_muns_second)
                 {
                     max_muns_second = num;
                 }
