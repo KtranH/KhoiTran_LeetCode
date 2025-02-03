@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Increasing Triplet Subsequence\Increasing Triplet Subsequence\bin\Debug\Increasing Triplet Subsequence.exe.config
+D:\LeetCode\C_Sharp\Increasing Triplet Subsequence\Increasing Triplet Subsequence\bin\Debug\Increasing Triplet Subsequence.exe
+D:\LeetCode\C_Sharp\Increasing Triplet Subsequence\Increasing Triplet Subsequence\bin\Debug\Increasing Triplet Subsequence.pdb
+D:\LeetCode\C_Sharp\Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\Increasing Triplet Subsequence.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\Increasing Triplet Subsequence.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\Increasing Triplet Subsequence.exe
+D:\LeetCode\C_Sharp\Increasing Triplet Subsequence\Increasing Triplet Subsequence\obj\Debug\Increasing Triplet Subsequence.pdb
