@@ -15,8 +15,8 @@ Explanation: You need to reduce multiple spaces between two words to a single sp
 
 const s = "the sky is blue";
 
-function slove_reverse_words(s) {
+function solve_reverse_words(s) {
     return s.split(' ').filter(word => word !== '').reverse().join(' ');
 }
 
-console.log(slove_reverse_words(s));
+console.log(solve_reverse_words(s));

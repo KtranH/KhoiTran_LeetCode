@@ -10,7 +10,7 @@ Output: false*/
 const flowerbed = [1,0,0,0,1];
 const n = 1;
 
-function slove_can_place_flowers(flowerbed, n) {
+function solve_can_place_flowers(flowerbed, n) {
     let count = 0;
     for (let i = 0; i < flowerbed.length; i++) {
         if (flowerbed[i] == 0 && (i == 0 || flowerbed[i - 1] == 0) && (i == flowerbed.length - 1 || flowerbed[i + 1] == 0)) {
@@ -24,4 +24,4 @@ function slove_can_place_flowers(flowerbed, n) {
     return count >= n ? true : false;
 }   
 
-console.log(slove_can_place_flowers(flowerbed, n));
+console.log(solve_can_place_flowers(flowerbed, n));

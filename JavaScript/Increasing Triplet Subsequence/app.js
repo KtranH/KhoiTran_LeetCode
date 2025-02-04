@@ -16,7 +16,7 @@ Explanation: The triplet (3, 4, 5) is valid because nums[3] == 0 < nums[4] == 4 
 
 const nums = [2,1,5,0,4,6];
 
-function slove_increase_triplet(nums){
+function solve_increase_triplet(nums){
     let first = Math.max(...nums) + 1;
     let second = Math.max(...nums) + 1;
     for(let i = 0; i < nums.length; i++){
@@ -31,4 +31,4 @@ function slove_increase_triplet(nums){
     return false;
 }
 
-console.log(slove_increase_triplet(nums));
+console.log(solve_increase_triplet(nums));

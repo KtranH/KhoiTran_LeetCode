@@ -22,7 +22,7 @@ Output: [true,false,true]*/
 const candies = [2, 3, 5, 1, 3];
 const extraCandies = 3;
 
-function slove_kidsWithCandies(candies, extraCandies) {
+function solve_kidsWithCandies(candies, extraCandies) {
   let max = Math.max(...candies);
   let result = [];
   for (let i = 0; i < candies.length; i++) {
@@ -35,4 +35,4 @@ function slove_kidsWithCandies(candies, extraCandies) {
   return result;
 }
 
-console.log(slove_kidsWithCandies(candies, extraCandies));
+console.log(solve_kidsWithCandies(candies, extraCandies));

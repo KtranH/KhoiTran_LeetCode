@@ -26,7 +26,7 @@ function check_string(s1, s2)
         return false;
     return true;
 }
-function slove_greatest_common_divisor_of_strings(str1, str2)
+function solve_greatest_common_divisor_of_strings(str1, str2)
 {
     if (!check_string(str1, str2))
         return "";
@@ -34,4 +34,4 @@ function slove_greatest_common_divisor_of_strings(str1, str2)
     return str1.slice(0, gcd);
 }
 
-console.log(slove_greatest_common_divisor_of_strings(str1, str2));
+console.log(solve_greatest_common_divisor_of_strings(str1, str2));

@@ -9,7 +9,7 @@ Output: [0,0,9,0,0]*/
 
 const nums = [1, 2, 3, 4];
 
-function slove_product_of_array_except_self(nums) {
+function solve_product_of_array_except_self(nums) {
     let result = [];
     let prefix = 1;
     for (let i = 0; i < nums.length; i++) {
@@ -24,4 +24,4 @@ function slove_product_of_array_except_self(nums) {
     return result;
 }
 
-console.log(slove_product_of_array_except_self(nums));
+console.log(solve_product_of_array_except_self(nums));

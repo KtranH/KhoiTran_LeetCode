@@ -17,7 +17,7 @@ Output: "leotcede"*/
 const s = "IceCreAm";
 const vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'];
 
-function slove_reverse_vowels(s, vowels) {
+function solve_reverse_vowels(s, vowels) {
     let arrS = s.split('');
     let count = arrS.length;
     for(let i = 0; i < arrS.length; i++) {
@@ -36,5 +36,5 @@ function slove_reverse_vowels(s, vowels) {
     return arrS.join('');
 }
 
-console.log(slove_reverse_vowels(s, vowels));
+console.log(solve_reverse_vowels(s, vowels));
 

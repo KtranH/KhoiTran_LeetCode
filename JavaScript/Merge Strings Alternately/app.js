@@ -41,7 +41,7 @@ while (word2.length < min || word2.length > max) {
     word2 = prompt("Enter the second word: ");
 }
 
-function slove_merge_strings_alternately(word1, word2) {
+function solve_merge_strings_alternately(word1, word2) {
     let result = "";
     for (let i = 0; i < Math.max(word1.length, word2.length); i++) {
         if (i < word1.length) {
@@ -54,4 +54,4 @@ function slove_merge_strings_alternately(word1, word2) {
     return result;
 }
 
-console.log(slove_merge_strings_alternately(word1, word2));
+console.log(solve_merge_strings_alternately(word1, word2));
