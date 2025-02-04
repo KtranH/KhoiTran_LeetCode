@@ -21,7 +21,7 @@ namespace Product_of_Array_Except_Self
         {
             int[] ints = { 1, 2, 3, 4 };
             Solution solution = new Solution();
-            int[] result = solution.slove_product_of_array_except_self(ints);
+            int[] result = solution.solve_product_of_array_except_self(ints);
             Console.WriteLine(string.Join(",", result));
             Console.ReadKey();
         }

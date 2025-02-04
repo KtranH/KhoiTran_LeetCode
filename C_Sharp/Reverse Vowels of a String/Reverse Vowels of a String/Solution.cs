@@ -8,7 +8,7 @@ namespace Reverse_Vowels_of_a_String
 {
     public class Solution
     {
-        public string slove_reverse_vowels(string s, string[] vowels)
+        public string solve_reverse_vowels(string s, string[] vowels)
         {
             int count = s.Length;
             StringBuilder sb = new StringBuilder(s);

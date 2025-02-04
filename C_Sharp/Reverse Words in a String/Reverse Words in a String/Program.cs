@@ -26,7 +26,7 @@ namespace Reverse_Words_in_a_String
         static void Main(string[] args)
         {
             Solution solution = new Solution();
-            Console.WriteLine(solution.slove_reverse_string("the sky is blue"));
+            Console.WriteLine(solution.solve_reverse_string("the sky is blue"));
             Console.ReadKey();
         }
     }

@@ -8,7 +8,7 @@ namespace Can_Place_Flowers
 {
     public class Solution
     {
-        public bool slove_can_place_flowers(int[] flowerbed, int n)
+        public bool solve_can_place_flowers(int[] flowerbed, int n)
         {
             int count = 0;
             for(int i = 0; i < flowerbed.Length; i++)

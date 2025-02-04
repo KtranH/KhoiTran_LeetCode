@@ -38,7 +38,7 @@ namespace Merge_Strings_Alternately
         static void Main(string[] args)
         {
             Solution solution = new Solution();
-            Console.WriteLine(solution.slove_merge_strings_alternately("abcd", "pq"));
+            Console.WriteLine(solution.solve_merge_strings_alternately("abcd", "pq"));
             Console.ReadKey();
         }
     }

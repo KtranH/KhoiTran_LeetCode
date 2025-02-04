@@ -12,7 +12,7 @@ namespace Greatest_Common_Divisor_of_Strings
         public static void Main(string[] args)
         {
             Solution solution = new Solution();
-            Console.WriteLine(solution.slove_Greatest_Common_Divisor_Of_Strings());
+            Console.WriteLine(solution.solve_Greatest_Common_Divisor_Of_Strings());
             Console.ReadKey();
         }
     }

@@ -9,7 +9,7 @@ namespace Reverse_Words_in_a_String
 {
     public class Solution
     {
-        public string slove_reverse_string(string s)
+        public string solve_reverse_string(string s)
         {
             //string result = string.Join(" ", s.Split(' ').Reverse()).Trim();
             //return Regex.Replace(result, @"\s+", " ");

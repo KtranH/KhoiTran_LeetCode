@@ -44,7 +44,7 @@ namespace Greatest_Common_Divisor_of_Strings
             }
             return true;
         }
-        public string slove_Greatest_Common_Divisor_Of_Strings()
+        public string solve_Greatest_Common_Divisor_Of_Strings()
         {
             if (!check_string(word1, word2))
             {

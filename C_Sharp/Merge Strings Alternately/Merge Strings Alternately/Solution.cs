@@ -38,7 +38,7 @@ namespace Merge_Strings_Alternately
                 word_max = 1;
             }
         }
-        public String slove_merge_strings_alternately(String word1, String word2)
+        public String solve_merge_strings_alternately(String word1, String word2)
         {
             String result = "";
             int max_length = Math.Max(word1.Length, word2.Length);

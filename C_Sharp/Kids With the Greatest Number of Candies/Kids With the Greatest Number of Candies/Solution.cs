@@ -8,7 +8,7 @@ namespace Kids_With_the_Greatest_Number_of_Candies
 {
     public class Solution
     {
-        public bool[] sloved_kids_the_greatest_number_of_candies(int[] candies, int extraCandies)
+        public bool[] solved_kids_the_greatest_number_of_candies(int[] candies, int extraCandies)
         {
             int max = candies.Max();
             bool[] result = new bool[candies.Length];

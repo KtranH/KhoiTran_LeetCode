@@ -29,7 +29,7 @@ namespace Reverse_Vowels_of_a_String
             string[] vowels = { "a", "e", "i", "o", "u", "A", "E", "I", "O", "U" };
             string s = "leetcode";
             Solution solution = new Solution();
-            Console.WriteLine(solution.slove_reverse_vowels(s, vowels));
+            Console.WriteLine(solution.solve_reverse_vowels(s, vowels));
             Console.ReadKey();
         }
     }

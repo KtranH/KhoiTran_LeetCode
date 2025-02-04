@@ -8,7 +8,7 @@ namespace Product_of_Array_Except_Self
 {
     public class Solution
     {
-        public int[] slove_product_of_array_except_self(int[] nums)
+        public int[] solve_product_of_array_except_self(int[] nums)
         {
             int[] result = new int[nums.Length];
             int pre_i = 1;

@@ -38,7 +38,7 @@ namespace Kids_With_the_Greatest_Number_of_Candies
             int[] candies = { 2, 3, 5, 1, 3 };
             int extraCandies = 3;
 
-            bool[] result = solution.sloved_kids_the_greatest_number_of_candies(candies, extraCandies);
+            bool[] result = solution.solved_kids_the_greatest_number_of_candies(candies, extraCandies);
             Console.WriteLine("result: " + string.Join(", ", result));
             Console.ReadKey();
         }

@@ -28,7 +28,7 @@ namespace Increasing_Triplet_Subsequence
         {
             int[] nums = { 1, 2, 3, 4, 5 };
             Solution solution = new Solution();
-            Console.WriteLine(solution.slove_increasing_triplet_subsequence(nums));
+            Console.WriteLine(solution.solve_increasing_triplet_subsequence(nums));
             Console.ReadKey();
         }
     }

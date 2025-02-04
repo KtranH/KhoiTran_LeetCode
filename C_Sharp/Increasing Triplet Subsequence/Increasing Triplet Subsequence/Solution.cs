@@ -8,7 +8,7 @@ namespace Increasing_Triplet_Subsequence
 {
     public class Solution
     {
-        public bool slove_increasing_triplet_subsequence(int[] nums)
+        public bool solve_increasing_triplet_subsequence(int[] nums)
         {
             int max_muns_first = nums.Max() + 1;
             int max_muns_second = nums.Max() + 1;
