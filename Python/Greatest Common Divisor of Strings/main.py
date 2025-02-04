@@ -31,7 +31,7 @@ def check_in_string(word1, word2):
         if word1 not in word2:
             return False
     return True
-def slove_Greatest_Common_Divisor_of_Strings(word1, word2):
+def solve_Greatest_Common_Divisor_of_Strings(word1, word2):
     if not check_in_string(word1, word2):
         return ""
     else:
@@ -50,4 +50,4 @@ def slove_Greatest_Common_Divisor_of_Strings(word1, word2):
                 return ""
             return test
 
-print(slove_Greatest_Common_Divisor_of_Strings(word1, word2))
+print(solve_Greatest_Common_Divisor_of_Strings(word1, word2))

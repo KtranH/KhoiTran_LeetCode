@@ -17,7 +17,7 @@ Explanation: You need to reduce multiple spaces between two words to a single sp
 
 s = "a good   example"
 
-def slove_reverse_words(s):
+def solve_reverse_words(s):
     return " ".join(s.split()[::-1])
 
-print(slove_reverse_words(s))
+print(solve_reverse_words(s))

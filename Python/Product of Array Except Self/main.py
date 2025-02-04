@@ -29,7 +29,7 @@ def slove_product_except_self(nums):
 print(slove_product_except_self(nums))
 """
 
-def slove_product_except_self(nums):
+def solve_product_except_self(nums):
     pre_i = 1
     for i in range(length):
         result[i] = pre_i
@@ -39,4 +39,4 @@ def slove_product_except_self(nums):
         result[i] *= after_i
         after_i *= nums[i]    
     return result
-print(slove_product_except_self(nums))
+print(solve_product_except_self(nums))

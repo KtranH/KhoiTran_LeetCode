@@ -12,7 +12,7 @@ Output: false
 flowerbed = [1,0,1,0,1,0,1]
 n = 0
 
-def slove_can_place_flowers(flowerbed, n):
+def solve_can_place_flowers(flowerbed, n):
     count = 0
     length = len(flowerbed)
     for i in range(length):
@@ -23,4 +23,4 @@ def slove_can_place_flowers(flowerbed, n):
                 return True
     return count >= n
 
-print(slove_can_place_flowers(flowerbed, n))
+print(solve_can_place_flowers(flowerbed, n))

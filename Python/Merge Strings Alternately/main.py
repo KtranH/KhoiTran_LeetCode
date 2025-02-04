@@ -47,7 +47,7 @@ while len(word2) < min or len(word2) > max:
     print("Please enter a word with legth between 1 and 100")
     word2 = input("Enter a word 2: ")
 
-def slove_Merge_Strings_Alternately(word1, word2):
+def solve_Merge_Strings_Alternately(word1, word2):
     result = ""
     range_word = max_length(word1, word2)
     for i in range(range_word):
@@ -57,4 +57,4 @@ def slove_Merge_Strings_Alternately(word1, word2):
             result += word2[i]
     return result
 
-print(slove_Merge_Strings_Alternately(word1, word2))
+print(solve_Merge_Strings_Alternately(word1, word2))

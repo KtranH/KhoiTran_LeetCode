@@ -19,7 +19,7 @@ Output: "leotcede"
 vowels = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
 s = "leetcode"
 
-def slove_reverse_vowels(s):
+def solve_reverse_vowels(s):
     length_string = len(s)
     count = length_string
     s = list(s)
@@ -32,4 +32,4 @@ def slove_reverse_vowels(s):
                    break
     return "".join(s)
 
-print(slove_reverse_vowels(s))
+print(solve_reverse_vowels(s))
