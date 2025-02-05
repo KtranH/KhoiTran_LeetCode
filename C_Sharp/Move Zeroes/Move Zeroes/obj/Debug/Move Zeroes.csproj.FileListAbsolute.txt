@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Move Zeroes\Move Zeroes\bin\Debug\Move Zeroes.exe.config
+D:\LeetCode\C_Sharp\Move Zeroes\Move Zeroes\bin\Debug\Move Zeroes.exe
+D:\LeetCode\C_Sharp\Move Zeroes\Move Zeroes\bin\Debug\Move Zeroes.pdb
+D:\LeetCode\C_Sharp\Move Zeroes\Move Zeroes\obj\Debug\Move Zeroes.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Move Zeroes\Move Zeroes\obj\Debug\Move Zeroes.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Move Zeroes\Move Zeroes\obj\Debug\Move Zeroes.exe
+D:\LeetCode\C_Sharp\Move Zeroes\Move Zeroes\obj\Debug\Move Zeroes.pdb
