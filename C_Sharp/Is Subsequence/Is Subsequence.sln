@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is Subsequence", "Is Subsequence\Is Subsequence.csproj", "{FEB4DEF3-02EA-4CCE-9989-D6EA821A7850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB4DEF3-02EA-4CCE-9989-D6EA821A7850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB4DEF3-02EA-4CCE-9989-D6EA821A7850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB4DEF3-02EA-4CCE-9989-D6EA821A7850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB4DEF3-02EA-4CCE-9989-D6EA821A7850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC86EAB-B08F-4CC4-A4BE-F6E0C246A9BC}
+	EndGlobalSection
+EndGlobal

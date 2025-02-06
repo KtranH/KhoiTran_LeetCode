@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Is Subsequence\Is Subsequence\bin\Debug\Is Subsequence.exe.config
+D:\LeetCode\C_Sharp\Is Subsequence\Is Subsequence\bin\Debug\Is Subsequence.exe
+D:\LeetCode\C_Sharp\Is Subsequence\Is Subsequence\bin\Debug\Is Subsequence.pdb
+D:\LeetCode\C_Sharp\Is Subsequence\Is Subsequence\obj\Debug\Is Subsequence.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Is Subsequence\Is Subsequence\obj\Debug\Is Subsequence.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Is Subsequence\Is Subsequence\obj\Debug\Is Subsequence.exe
+D:\LeetCode\C_Sharp\Is Subsequence\Is Subsequence\obj\Debug\Is Subsequence.pdb
