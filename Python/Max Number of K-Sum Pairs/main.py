@@ -29,7 +29,7 @@ def solve_max_number_of_ksum_pairs(nums, k):
         if sum_pairs == k:
            count += 1
            index_left += 1
-           ndex_right -= 1
+           index_right -= 1
         else:
             if sum_pairs > k:
                 index_right -= 1
