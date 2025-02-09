@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Maximum Average Subarray I\Maximum Average Subarray I\bin\Debug\Maximum Average Subarray I.exe.config
+D:\LeetCode\C_Sharp\Maximum Average Subarray I\Maximum Average Subarray I\bin\Debug\Maximum Average Subarray I.exe
+D:\LeetCode\C_Sharp\Maximum Average Subarray I\Maximum Average Subarray I\bin\Debug\Maximum Average Subarray I.pdb
+D:\LeetCode\C_Sharp\Maximum Average Subarray I\Maximum Average Subarray I\obj\Debug\Maximum Average Subarray I.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Maximum Average Subarray I\Maximum Average Subarray I\obj\Debug\Maximum Average Subarray I.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Maximum Average Subarray I\Maximum Average Subarray I\obj\Debug\Maximum Average Subarray I.exe
+D:\LeetCode\C_Sharp\Maximum Average Subarray I\Maximum Average Subarray I\obj\Debug\Maximum Average Subarray I.pdb
