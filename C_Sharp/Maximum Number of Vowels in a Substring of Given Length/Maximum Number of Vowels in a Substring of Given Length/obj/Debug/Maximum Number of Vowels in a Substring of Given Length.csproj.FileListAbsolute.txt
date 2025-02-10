@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length\bin\Debug\Maximum Number of Vowels in a Substring of Given Length.exe.config
+D:\LeetCode\C_Sharp\Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length\bin\Debug\Maximum Number of Vowels in a Substring of Given Length.exe
+D:\LeetCode\C_Sharp\Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length\bin\Debug\Maximum Number of Vowels in a Substring of Given Length.pdb
+D:\LeetCode\C_Sharp\Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length\obj\Debug\Maximum Number of Vowels in a Substring of Given Length.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length\obj\Debug\Maximum Number of Vowels in a Substring of Given Length.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length\obj\Debug\Maximum Number of Vowels in a Substring of Given Length.exe
+D:\LeetCode\C_Sharp\Maximum Number of Vowels in a Substring of Given Length\Maximum Number of Vowels in a Substring of Given Length\obj\Debug\Maximum Number of Vowels in a Substring of Given Length.pdb
