@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Subarray of 1's After Deleting One Element", "Longest Subarray of 1's After Deleting One Element\Longest Subarray of 1's After Deleting One Element.csproj", "{1B491177-12B0-4A9F-A1AC-F1D8F1103708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B491177-12B0-4A9F-A1AC-F1D8F1103708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B491177-12B0-4A9F-A1AC-F1D8F1103708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B491177-12B0-4A9F-A1AC-F1D8F1103708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B491177-12B0-4A9F-A1AC-F1D8F1103708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {691EA7BE-B800-4F6E-B901-BD99612B63E5}
+	EndGlobalSection
+EndGlobal

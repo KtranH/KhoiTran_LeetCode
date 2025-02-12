@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Longest Subarray of 1's After Deleting One Element\Longest Subarray of 1's After Deleting One Element\bin\Debug\Longest Subarray of 1's After Deleting One Element.exe.config
+D:\LeetCode\C_Sharp\Longest Subarray of 1's After Deleting One Element\Longest Subarray of 1's After Deleting One Element\bin\Debug\Longest Subarray of 1's After Deleting One Element.exe
+D:\LeetCode\C_Sharp\Longest Subarray of 1's After Deleting One Element\Longest Subarray of 1's After Deleting One Element\bin\Debug\Longest Subarray of 1's After Deleting One Element.pdb
+D:\LeetCode\C_Sharp\Longest Subarray of 1's After Deleting One Element\Longest Subarray of 1's After Deleting One Element\obj\Debug\Longest Subarray of 1's After Deleting One Element.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Longest Subarray of 1's After Deleting One Element\Longest Subarray of 1's After Deleting One Element\obj\Debug\Longest Subarray of 1's After Deleting One Element.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Longest Subarray of 1's After Deleting One Element\Longest Subarray of 1's After Deleting One Element\obj\Debug\Longest Subarray of 1's After Deleting One Element.exe
+D:\LeetCode\C_Sharp\Longest Subarray of 1's After Deleting One Element\Longest Subarray of 1's After Deleting One Element\obj\Debug\Longest Subarray of 1's After Deleting One Element.pdb
