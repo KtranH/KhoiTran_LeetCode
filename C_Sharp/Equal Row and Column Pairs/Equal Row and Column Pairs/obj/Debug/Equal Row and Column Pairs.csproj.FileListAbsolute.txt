@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Equal Row and Column Pairs\Equal Row and Column Pairs\bin\Debug\Equal Row and Column Pairs.exe.config
+D:\LeetCode\C_Sharp\Equal Row and Column Pairs\Equal Row and Column Pairs\bin\Debug\Equal Row and Column Pairs.exe
+D:\LeetCode\C_Sharp\Equal Row and Column Pairs\Equal Row and Column Pairs\bin\Debug\Equal Row and Column Pairs.pdb
+D:\LeetCode\C_Sharp\Equal Row and Column Pairs\Equal Row and Column Pairs\obj\Debug\Equal Row and Column Pairs.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Equal Row and Column Pairs\Equal Row and Column Pairs\obj\Debug\Equal Row and Column Pairs.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Equal Row and Column Pairs\Equal Row and Column Pairs\obj\Debug\Equal Row and Column Pairs.exe
+D:\LeetCode\C_Sharp\Equal Row and Column Pairs\Equal Row and Column Pairs\obj\Debug\Equal Row and Column Pairs.pdb
