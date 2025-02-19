@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Removing Stars From a String\Removing Stars From a String\bin\Debug\Removing Stars From a String.exe.config
+D:\LeetCode\C_Sharp\Removing Stars From a String\Removing Stars From a String\bin\Debug\Removing Stars From a String.exe
+D:\LeetCode\C_Sharp\Removing Stars From a String\Removing Stars From a String\bin\Debug\Removing Stars From a String.pdb
+D:\LeetCode\C_Sharp\Removing Stars From a String\Removing Stars From a String\obj\Debug\Removing Stars From a String.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Removing Stars From a String\Removing Stars From a String\obj\Debug\Removing Stars From a String.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Removing Stars From a String\Removing Stars From a String\obj\Debug\Removing Stars From a String.exe
+D:\LeetCode\C_Sharp\Removing Stars From a String\Removing Stars From a String\obj\Debug\Removing Stars From a String.pdb
