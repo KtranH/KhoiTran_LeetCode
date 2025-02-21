@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decode String", "Decode String\Decode String.csproj", "{0711F744-DA7E-4128-B29D-F008E60F8752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0711F744-DA7E-4128-B29D-F008E60F8752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0711F744-DA7E-4128-B29D-F008E60F8752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0711F744-DA7E-4128-B29D-F008E60F8752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0711F744-DA7E-4128-B29D-F008E60F8752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301622F5-1A27-4B05-B75C-CBC4C946BE58}
+	EndGlobalSection
+EndGlobal
