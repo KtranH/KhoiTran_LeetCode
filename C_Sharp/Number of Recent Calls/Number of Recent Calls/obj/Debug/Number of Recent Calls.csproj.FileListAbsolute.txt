@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Number of Recent Calls\Number of Recent Calls\bin\Debug\Number of Recent Calls.exe.config
+D:\LeetCode\C_Sharp\Number of Recent Calls\Number of Recent Calls\bin\Debug\Number of Recent Calls.exe
+D:\LeetCode\C_Sharp\Number of Recent Calls\Number of Recent Calls\bin\Debug\Number of Recent Calls.pdb
+D:\LeetCode\C_Sharp\Number of Recent Calls\Number of Recent Calls\obj\Debug\Number of Recent Calls.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Number of Recent Calls\Number of Recent Calls\obj\Debug\Number of Recent Calls.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Number of Recent Calls\Number of Recent Calls\obj\Debug\Number of Recent Calls.exe
+D:\LeetCode\C_Sharp\Number of Recent Calls\Number of Recent Calls\obj\Debug\Number of Recent Calls.pdb
