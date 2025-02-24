@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Dota2 Senate\Dota2 Senate\bin\Debug\Dota2 Senate.exe.config
+D:\LeetCode\C_Sharp\Dota2 Senate\Dota2 Senate\bin\Debug\Dota2 Senate.exe
+D:\LeetCode\C_Sharp\Dota2 Senate\Dota2 Senate\bin\Debug\Dota2 Senate.pdb
+D:\LeetCode\C_Sharp\Dota2 Senate\Dota2 Senate\obj\Debug\Dota2 Senate.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Dota2 Senate\Dota2 Senate\obj\Debug\Dota2 Senate.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Dota2 Senate\Dota2 Senate\obj\Debug\Dota2 Senate.exe
+D:\LeetCode\C_Sharp\Dota2 Senate\Dota2 Senate\obj\Debug\Dota2 Senate.pdb
