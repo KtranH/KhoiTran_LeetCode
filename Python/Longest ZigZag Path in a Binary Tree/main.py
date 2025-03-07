@@ -41,6 +41,7 @@ class TreeNode:
             if i < len(data) and data[i]:
                 node.right = Node(data[i])
                 queue.append(node.right)
+
             i += 1
         return self.root
     def DFS(self, root, length, direction):
