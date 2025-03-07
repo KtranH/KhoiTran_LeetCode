@@ -67,3 +67,9 @@ class TreeNode
         return left !== null ? left : right;
     }
 }
+
+let test = new TreeNode();
+
+let root = test.insert_level_order([3,5,1,6,2,0,8,null,null,7,4]);
+
+console.log(test.solve_lowest_common_ancestor_of_a_binary_tree(root, 5, 1)); // Output: 3
