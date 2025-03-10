@@ -50,7 +50,7 @@ class TreeNode:
         if length > self.max_length:
             self.max_length = length
         if direction == "left":
-            self.DFS(root.left, length + 1, "right")
+            self.DFS(root.left, length + 1, "left")
             self.DFS(root.right, 1, "left")
         else:
             self.DFS(root.left, 1, "right")
