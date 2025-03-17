@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Number of Provinces\Number of Provinces\bin\Debug\Number of Provinces.exe.config
+D:\LeetCode\C_Sharp\Number of Provinces\Number of Provinces\bin\Debug\Number of Provinces.exe
+D:\LeetCode\C_Sharp\Number of Provinces\Number of Provinces\bin\Debug\Number of Provinces.pdb
+D:\LeetCode\C_Sharp\Number of Provinces\Number of Provinces\obj\Debug\Number of Provinces.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Number of Provinces\Number of Provinces\obj\Debug\Number of Provinces.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Number of Provinces\Number of Provinces\obj\Debug\Number of Provinces.exe
+D:\LeetCode\C_Sharp\Number of Provinces\Number of Provinces\obj\Debug\Number of Provinces.pdb
