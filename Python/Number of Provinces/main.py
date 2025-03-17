@@ -9,11 +9,12 @@ Example 2:
 
 Input: isConnected = [[1,0,0],[0,1,0],[0,0,1]]
 Output: 3
+"""
 
 isConnected = [[1,1,0],[1,1,0],[0,0,1]]
 v = [False] * len(isConnected)
 count = 0
-"""
+
 
 def dfs(isConnected, v, i):
     if v[i]:
