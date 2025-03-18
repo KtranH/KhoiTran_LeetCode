@@ -33,14 +33,17 @@ function solve_reorder_routes() {
     const n = 6
     const visited = new Array(n).fill(false)
     const directEdges = new Set(connections.map(conn => `${conn[0]},${conn[1]}`))
-    const graph = connections.reduce((acc, conn) => {
-        const [u, v] = conn
-        acc[u] = acc[u] || []
-        acc[v] = acc[v] || []
-        acc[u].push(v)
-        acc[v].push(u)
-        return acc
-    }, {})
+    const graph = {}
+    for (const [u, v] of connections) {
+        if (!graph[u]) {
+            graph[u] = []
+        }
+        if (!graph[v]) {
+            graph[v] = []
+        }
+        graph[u].push(v)
+        graph[v].push(u)
+    }
     visited[0] = true
     return dfs(0, visited, graph, directEdges)
 }
