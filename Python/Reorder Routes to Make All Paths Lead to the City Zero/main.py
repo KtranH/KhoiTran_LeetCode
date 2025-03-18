@@ -41,7 +41,6 @@ def solve_reorder_routes(n, connections):
         graph[v].append(u)
         direct_edges.add((u, v))
     visited[0] = True
-    print(direct_edges)
     return DFS(graph, direct_edges, visited, 0)
     
 print(solve_reorder_routes(n, connections))
