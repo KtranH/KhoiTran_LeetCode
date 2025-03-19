@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Evaluate Division\Evaluate Division\bin\Debug\Evaluate Division.exe.config
+D:\LeetCode\C_Sharp\Evaluate Division\Evaluate Division\bin\Debug\Evaluate Division.exe
+D:\LeetCode\C_Sharp\Evaluate Division\Evaluate Division\bin\Debug\Evaluate Division.pdb
+D:\LeetCode\C_Sharp\Evaluate Division\Evaluate Division\obj\Debug\Evaluate Division.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Evaluate Division\Evaluate Division\obj\Debug\Evaluate Division.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Evaluate Division\Evaluate Division\obj\Debug\Evaluate Division.exe
+D:\LeetCode\C_Sharp\Evaluate Division\Evaluate Division\obj\Debug\Evaluate Division.pdb
