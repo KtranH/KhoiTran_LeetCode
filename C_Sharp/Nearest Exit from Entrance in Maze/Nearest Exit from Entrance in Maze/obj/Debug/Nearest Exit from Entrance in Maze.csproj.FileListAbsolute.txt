@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Nearest Exit from Entrance in Maze\Nearest Exit from Entrance in Maze\bin\Debug\Nearest Exit from Entrance in Maze.exe.config
+D:\LeetCode\C_Sharp\Nearest Exit from Entrance in Maze\Nearest Exit from Entrance in Maze\bin\Debug\Nearest Exit from Entrance in Maze.exe
+D:\LeetCode\C_Sharp\Nearest Exit from Entrance in Maze\Nearest Exit from Entrance in Maze\bin\Debug\Nearest Exit from Entrance in Maze.pdb
+D:\LeetCode\C_Sharp\Nearest Exit from Entrance in Maze\Nearest Exit from Entrance in Maze\obj\Debug\Nearest Exit from Entrance in Maze.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Nearest Exit from Entrance in Maze\Nearest Exit from Entrance in Maze\obj\Debug\Nearest Exit from Entrance in Maze.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Nearest Exit from Entrance in Maze\Nearest Exit from Entrance in Maze\obj\Debug\Nearest Exit from Entrance in Maze.exe
+D:\LeetCode\C_Sharp\Nearest Exit from Entrance in Maze\Nearest Exit from Entrance in Maze\obj\Debug\Nearest Exit from Entrance in Maze.pdb
