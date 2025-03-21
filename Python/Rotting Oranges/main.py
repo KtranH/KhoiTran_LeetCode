@@ -22,7 +22,6 @@ grid = [[2,1,1],[1,1,0],[0,1,1]]
 
 def BFS(grid):
     count_fresh = 0
-    count_min = 0
     queue = deque()
     for i in range(len(grid)):
         for j in range(len(grid[0])):
