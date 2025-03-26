@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Maximum Subsequence Score\Maximum Subsequence Score\bin\Debug\Maximum Subsequence Score.exe.config
+D:\LeetCode\C_Sharp\Maximum Subsequence Score\Maximum Subsequence Score\bin\Debug\Maximum Subsequence Score.exe
+D:\LeetCode\C_Sharp\Maximum Subsequence Score\Maximum Subsequence Score\bin\Debug\Maximum Subsequence Score.pdb
+D:\LeetCode\C_Sharp\Maximum Subsequence Score\Maximum Subsequence Score\obj\Debug\Maximum Subsequence Score.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Maximum Subsequence Score\Maximum Subsequence Score\obj\Debug\Maximum Subsequence Score.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Maximum Subsequence Score\Maximum Subsequence Score\obj\Debug\Maximum Subsequence Score.exe
+D:\LeetCode\C_Sharp\Maximum Subsequence Score\Maximum Subsequence Score\obj\Debug\Maximum Subsequence Score.pdb

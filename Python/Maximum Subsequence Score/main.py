@@ -36,7 +36,6 @@ def solve_maximum_subsequence_score(nums1, nums2, k):
     for i in sorted_indices:
         if len(min_heap) < k:
             heapq.heappush(min_heap, nums1[i])
-            print(min_heap)
             sum_selected += nums1[i]
         else:
             if nums1[i] > min_heap[0]: 
