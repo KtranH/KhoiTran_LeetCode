@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Total Cost to Hire K Workers\Total Cost to Hire K Workers\bin\Debug\Total Cost to Hire K Workers.exe.config
+D:\LeetCode\C_Sharp\Total Cost to Hire K Workers\Total Cost to Hire K Workers\bin\Debug\Total Cost to Hire K Workers.exe
+D:\LeetCode\C_Sharp\Total Cost to Hire K Workers\Total Cost to Hire K Workers\bin\Debug\Total Cost to Hire K Workers.pdb
+D:\LeetCode\C_Sharp\Total Cost to Hire K Workers\Total Cost to Hire K Workers\obj\Debug\Total Cost to Hire K Workers.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Total Cost to Hire K Workers\Total Cost to Hire K Workers\obj\Debug\Total Cost to Hire K Workers.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Total Cost to Hire K Workers\Total Cost to Hire K Workers\obj\Debug\Total Cost to Hire K Workers.exe
+D:\LeetCode\C_Sharp\Total Cost to Hire K Workers\Total Cost to Hire K Workers\obj\Debug\Total Cost to Hire K Workers.pdb
