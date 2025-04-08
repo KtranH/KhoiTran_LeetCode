@@ -10,6 +10,7 @@ Example 2:
 Input: n = 25
 Output: 1389537*/
 
+console.time("test_DP-1D");
 const n = 4;
 
 function solve_n_th_tribonacci_number(n) {
@@ -29,3 +30,5 @@ function solve_n_th_tribonacci_number(n) {
 }
 
 console.log(solve_n_th_tribonacci_number(n));
+
+console.timeEnd("test_DP-1D");
