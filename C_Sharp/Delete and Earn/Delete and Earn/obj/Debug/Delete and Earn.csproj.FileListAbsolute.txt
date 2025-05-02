@@ -1,0 +1,7 @@
+D:\LeetCode\C_Sharp\Delete and Earn\Delete and Earn\bin\Debug\Delete and Earn.exe.config
+D:\LeetCode\C_Sharp\Delete and Earn\Delete and Earn\bin\Debug\Delete and Earn.exe
+D:\LeetCode\C_Sharp\Delete and Earn\Delete and Earn\bin\Debug\Delete and Earn.pdb
+D:\LeetCode\C_Sharp\Delete and Earn\Delete and Earn\obj\Debug\Delete and Earn.csproj.AssemblyReference.cache
+D:\LeetCode\C_Sharp\Delete and Earn\Delete and Earn\obj\Debug\Delete and Earn.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\Delete and Earn\Delete and Earn\obj\Debug\Delete and Earn.exe
+D:\LeetCode\C_Sharp\Delete and Earn\Delete and Earn\obj\Debug\Delete and Earn.pdb
