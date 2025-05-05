@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Path Sum", "Minimum Path Sum\Minimum Path Sum.csproj", "{A5609BB1-F0CC-46D6-8A2C-1E89681F71A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5609BB1-F0CC-46D6-8A2C-1E89681F71A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5609BB1-F0CC-46D6-8A2C-1E89681F71A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5609BB1-F0CC-46D6-8A2C-1E89681F71A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5609BB1-F0CC-46D6-8A2C-1E89681F71A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FEC26DB-C6AD-4CE9-A374-DBAD2840DA80}
+	EndGlobalSection
+EndGlobal
