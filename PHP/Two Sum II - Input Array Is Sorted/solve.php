@@ -26,9 +26,10 @@ function solve_two_sum($numbers, $target) {
     $left = 0;
     $right = count($numbers) - 1;
     while ($left < $right) {
-        if ($numbers[$left] + $numbers[$right] == $target) {
+        $result = $numbers[$left] + $numbers[$right];
+        if ($result == $target) {
             return [$left + 1, $right + 1];
-        } elseif ($numbers[$left] + $numbers[$right] < $target) {
+        } elseif ($result < $target) {
             $left++;
         } else {
             $right--;
