@@ -1,0 +1,15 @@
+D:\LeetCode\C_Sharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.exe
+D:\LeetCode\C_Sharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.deps.json
+D:\LeetCode\C_Sharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.runtimeconfig.json
+D:\LeetCode\C_Sharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.dll
+D:\LeetCode\C_Sharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.pdb
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.AssemblyInfoInputs.cache
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.AssemblyInfo.cs
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.csproj.CoreCompileInputs.cache
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.sourcelink.json
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.dll
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\refint\ValidAnagram.dll
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.pdb
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.genruntimeconfig.cache
+D:\LeetCode\C_Sharp\ValidAnagram\obj\Debug\net8.0\ref\ValidAnagram.dll
