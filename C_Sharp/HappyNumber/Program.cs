@@ -5,7 +5,7 @@ namespace HappyNumber
 {
     class Program
     {
-        static void solve_happy_number(int n)
+        static bool solve_happy_number(int n)
         {
             Dictionary<int, bool> hash_map = new Dictionary<int, bool>();
             while (n != 1 && !hash_map.ContainsKey(n))
